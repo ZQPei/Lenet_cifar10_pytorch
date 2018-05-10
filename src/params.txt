@@ -1,0 +1,14 @@
+# parameters setting
+root=/opt/data/pzq/cifar
+CUDA=True
+seed=1
+
+epochs=2
+batch_size=4
+
+learning_rate=0.001
+momentum=0.9
+
+
+
+
